@@ -36,7 +36,7 @@ For our final project, we put together a travel destinations map and itinerary. 
 5. Add the data to a Pandas DataFrame
 6. Export the DataFrame as a CSV
 
-Here's a sample of our data in the DataFrame:
+We ended up with 703 cities. Here's a sample of our data in the DataFrame:
 
 ![DataFrame](https://github.com/flowersmichael/World_Weather_Analysis/blob/main/Dataframe.png)
 
@@ -57,7 +57,7 @@ Here's a sample of our data in the DataFrame:
 3. Choose four cities a customer may want to visit, all in the same country and close together
 4. Use gmaps to create a directions layer map
 
-We decided to set up a trip to Madagascar!
+We decided on a trip to Madagascar!
 
 ![Travel Itinerary Map](https://github.com/flowersmichael/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
